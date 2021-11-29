@@ -1,15 +1,14 @@
 <body>
     
-          I am Tony Beltramelli, Co-Founder &amp; CEO of <a href="https://uizard.io/" target="_blank">Uizard Technologies</a>, a startup developing AI-powered tools to transform the way people design and build software.
+          I am Idara Samuel Osu am passionate about the World of Technology especially Artificial Intelligence, I am currently studying for a degree in Urban Planning 
+	
+          My Interest is to work on the intersection of Machine Learning, Art, Software Engineering, City Development, Urban Planning and Housing.
           <br><br>
-          I work at the intersection of machine learning, design, and software engineering.
-          <br><br>
-          You can check out my code on <a href="https://github.com/tonybeltramelli" target="_blank">Github</a>, my blog posts on <a href="https://tbeltramelli.medium.com/" target="_blank">Medium</a>, and my public research on <a href="https://scholar.google.ch/citations?user=EVdGe-kAAAAJ&amp;hl=en&amp;oi=ao" target="_blank">Google Scholar</a>.
-        </p>
+          You can check out my code on <a href="https://github.com/aidyosu" target="_blank">Github</a>, my blog posts on <a href="https://dev.to/aidystark" target="_blank">Devto</a> 
         <ul class="social">
-          <li><a target="_blank" href="https://twitter.com/Tbeltramelli" class="twitter">Follow me on Twitter</a></li>
-          <li><a target="_blank" href="https://github.com/tonybeltramelli" class="github">Fork my code on Github</a></li>
-          <li><a target="_blank" href="https://www.linkedin.com/pub/tony-beltramelli/19/b12/513" class="linkedin">Let's get connected on LinkedIn</a></li>
+          <li><a target="_blank" href="https://twitter.com/OsuAidy"class="twitter">Follow me on Twitter</a></li>
+          <li><a target="_blank" href="https://github.com/aidyosu" class="github">Fork my code on Github</a></li>
+          <li><a target="_blank" href="https://www.linkedin.com/in/idara-osu-409602164/" class="linkedin">Let's get connected on LinkedIn</a></li>
         </ul>
       </section>
          <script type="text/javascript">
