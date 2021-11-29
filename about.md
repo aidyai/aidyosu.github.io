@@ -10,8 +10,11 @@
           <li><a target="_blank" href="https://github.com/aidyosu" class="github">Fork my code on Github</a></li>
           <li><a target="_blank" href="https://www.linkedin.com/in/idara-osu-409602164/" class="linkedin">Let's get connected on LinkedIn</a></li>
         </ul>
-      </section>
-         <script type="text/javascript">
+
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
+	<script src="assets/js/jquery-1-11-2.min.js" type="text/javascript"></script>
+	<script src="assets/js/main.js" type="text/javascript"></script>
+	<script type="text/javascript">
 			var _gaq = _gaq || [];
 		  	_gaq.push(['_setAccount', 'UA-19783359-1']);
 		  	_gaq.push(['_trackPageview']);
