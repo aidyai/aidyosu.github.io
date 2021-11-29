@@ -2,11 +2,11 @@
     
           I am Idara Samuel Osu am passionate about the World of Technology especially Artificial Intelligence, I am currently studying for a degree in Urban Planning 
 	
-          My Interest is to work on the intersection of Machine Learning, Art, Software Engineering, City Development, Urban Planning and Housing.
+          My Interest lies in the intersection of Machine Learning, Art, Software Engineering, City Development, Urban Planning and Housing.
           <br><br>
           You can check out my code on <a href="https://github.com/aidyosu" target="_blank">Github</a>, my blog posts on <a href="https://dev.to/aidystark" target="_blank">Devto</a> 
         <ul class="social">
-          <li><a target="_blank" href="https://twitter.com/OsuAidy"class="twitter">Follow me on Twitter</a></li>
+          <li><a target="_blank" href="https://twitter.com/OsuAidy" class="twitter">Follow me on Twitter</a></li>
           <li><a target="_blank" href="https://github.com/aidyosu" class="github">Fork my code on Github</a></li>
           <li><a target="_blank" href="https://www.linkedin.com/in/idara-osu-409602164/" class="linkedin">Let's get connected on LinkedIn</a></li>
         </ul>
