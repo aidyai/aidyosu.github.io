@@ -20,16 +20,12 @@ Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for 
 - atom feed
 - json feed
 - http security headers
-<section>
-        <p>
-          <span>
-            &gt;_
-          </span>
-          <br><br>
-          <span>
-            Hi there! 👋
-          </span>
-          <br><br>
+
+
+
+
+<body>
+    
           I am Tony Beltramelli, Co-Founder &amp; CEO of <a href="https://uizard.io/" target="_blank">Uizard Technologies</a>, a startup developing AI-powered tools to transform the way people design and build software.
           <br><br>
           I work at the intersection of machine learning, design, and software engineering.
@@ -42,3 +38,17 @@ Colorful, minimal one-column portfolio/blog theme built for Jekyll. Perfect for 
           <li><a target="_blank" href="https://www.linkedin.com/pub/tony-beltramelli/19/b12/513" class="linkedin">Let's get connected on LinkedIn</a></li>
         </ul>
       </section>
+         <script type="text/javascript">
+			var _gaq = _gaq || [];
+		  	_gaq.push(['_setAccount', 'UA-19783359-1']);
+		  	_gaq.push(['_trackPageview']);
+
+		  	(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  	})();
+		</script>
+  
+
+</body>
